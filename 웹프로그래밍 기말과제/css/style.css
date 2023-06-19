@@ -1,0 +1,30 @@
+.menu-list li:hover img {
+  transform: scale(1.5);
+}
+
+#menu {
+  padding: 10px;
+  background-color: #fafad2;
+}
+
+#about {
+  padding: 10px;
+  background-color: #eee8aa;
+}
+
+#reservation {
+  padding: 10px;
+  background-color: #f0e68c;
+}
+
+.logo {
+  position: fixed;
+  top: 50px;
+  right: 0;
+  width: 300px;
+  padding: 20px;
+}
+
+a:hover {
+  color: red;
+}
